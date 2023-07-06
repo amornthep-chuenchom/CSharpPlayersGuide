@@ -1,0 +1,3 @@
+# My solutions for the challenges in the C# Player's Guide
+
+ทำโจทย์ ทำโจทย์ ทำโจทย์...

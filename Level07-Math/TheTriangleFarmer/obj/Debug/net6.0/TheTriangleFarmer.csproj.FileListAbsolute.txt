@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\bin\Debug\net6.0\TheTriangleFarmer.exe
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\bin\Debug\net6.0\TheTriangleFarmer.deps.json
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\bin\Debug\net6.0\TheTriangleFarmer.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\bin\Debug\net6.0\TheTriangleFarmer.dll
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\bin\Debug\net6.0\TheTriangleFarmer.pdb
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.dll
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\obj\Debug\net6.0\refint\TheTriangleFarmer.dll
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.pdb
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level07-Math\TheTriangleFarmer\obj\Debug\net6.0\ref\TheTriangleFarmer.dll

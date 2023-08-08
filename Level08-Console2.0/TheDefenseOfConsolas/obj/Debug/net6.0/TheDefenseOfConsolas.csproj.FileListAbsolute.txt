@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.exe
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.deps.json
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.dll
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.pdb
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.dll
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\refint\TheDefenseOfConsolas.dll
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.pdb
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level08-Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\ref\TheDefenseOfConsolas.dll

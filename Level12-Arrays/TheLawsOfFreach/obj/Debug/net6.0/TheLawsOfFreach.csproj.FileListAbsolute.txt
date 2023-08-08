@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.exe
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.deps.json
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.dll
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.pdb
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.dll
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\obj\Debug\net6.0\refint\TheLawsOfFreach.dll
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.pdb
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheLawsOfFreach\obj\Debug\net6.0\ref\TheLawsOfFreach.dll

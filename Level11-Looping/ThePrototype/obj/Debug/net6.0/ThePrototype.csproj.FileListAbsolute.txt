@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\bin\Debug\net6.0\ThePrototype.exe
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\bin\Debug\net6.0\ThePrototype.deps.json
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\bin\Debug\net6.0\ThePrototype.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\bin\Debug\net6.0\ThePrototype.dll
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\bin\Debug\net6.0\ThePrototype.pdb
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.dll
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\obj\Debug\net6.0\refint\ThePrototype.dll
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.pdb
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level11-Looping\ThePrototype\obj\Debug\net6.0\ref\ThePrototype.dll

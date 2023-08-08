@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.exe
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.deps.json
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.dll
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.pdb
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.dll
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\refint\TheFourSistersAndTheDuckbear.dll
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.pdb
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\ref\TheFourSistersAndTheDuckbear.dll

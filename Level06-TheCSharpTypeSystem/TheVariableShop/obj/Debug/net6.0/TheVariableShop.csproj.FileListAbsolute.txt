@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\bin\Debug\net6.0\TheVariableShop.exe
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\bin\Debug\net6.0\TheVariableShop.deps.json
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\bin\Debug\net6.0\TheVariableShop.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\bin\Debug\net6.0\TheVariableShop.dll
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\bin\Debug\net6.0\TheVariableShop.pdb
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\obj\Debug\net6.0\TheVariableShop.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\obj\Debug\net6.0\TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\obj\Debug\net6.0\TheVariableShop.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\obj\Debug\net6.0\TheVariableShop.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\obj\Debug\net6.0\TheVariableShop.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\obj\Debug\net6.0\TheVariableShop.dll
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\obj\Debug\net6.0\refint\TheVariableShop.dll
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\obj\Debug\net6.0\TheVariableShop.pdb
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\obj\Debug\net6.0\TheVariableShop.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShop\obj\Debug\net6.0\ref\TheVariableShop.dll

@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\obj\Debug\net7.0\Watchtower.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\obj\Debug\net7.0\Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\obj\Debug\net7.0\Watchtower.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\obj\Debug\net7.0\Watchtower.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\obj\Debug\net7.0\Watchtower.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\bin\Debug\net7.0\Watchtower.exe
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\bin\Debug\net7.0\Watchtower.deps.json
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\bin\Debug\net7.0\Watchtower.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\bin\Debug\net7.0\Watchtower.dll
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\bin\Debug\net7.0\Watchtower.pdb
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\obj\Debug\net7.0\Watchtower.dll
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\obj\Debug\net7.0\refint\Watchtower.dll
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\obj\Debug\net7.0\Watchtower.pdb
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\obj\Debug\net7.0\Watchtower.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\Watchtower\obj\Debug\net7.0\ref\Watchtower.dll

@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\bin\Debug\net6.0\HuntingTheManticoreV2.exe
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\bin\Debug\net6.0\HuntingTheManticoreV2.deps.json
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\bin\Debug\net6.0\HuntingTheManticoreV2.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\bin\Debug\net6.0\HuntingTheManticoreV2.dll
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\bin\Debug\net6.0\HuntingTheManticoreV2.pdb
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\obj\Debug\net6.0\HuntingTheManticoreV2.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\obj\Debug\net6.0\HuntingTheManticoreV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\obj\Debug\net6.0\HuntingTheManticoreV2.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\obj\Debug\net6.0\HuntingTheManticoreV2.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\obj\Debug\net6.0\HuntingTheManticoreV2.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\obj\Debug\net6.0\HuntingTheManticoreV2.dll
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\obj\Debug\net6.0\refint\HuntingTheManticoreV2.dll
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\obj\Debug\net6.0\HuntingTheManticoreV2.pdb
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\obj\Debug\net6.0\HuntingTheManticoreV2.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level14-MemoryManagement\HuntingTheManticoreV2\obj\Debug\net6.0\ref\HuntingTheManticoreV2.dll

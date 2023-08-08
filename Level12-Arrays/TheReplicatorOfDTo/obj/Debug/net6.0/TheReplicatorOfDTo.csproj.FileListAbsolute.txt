@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\bin\Debug\net6.0\TheReplicatorOfDTo.exe
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\bin\Debug\net6.0\TheReplicatorOfDTo.deps.json
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\bin\Debug\net6.0\TheReplicatorOfDTo.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\bin\Debug\net6.0\TheReplicatorOfDTo.dll
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\bin\Debug\net6.0\TheReplicatorOfDTo.pdb
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.dll
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\obj\Debug\net6.0\refint\TheReplicatorOfDTo.dll
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.pdb
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level12-Arrays\TheReplicatorOfDTo\obj\Debug\net6.0\ref\TheReplicatorOfDTo.dll

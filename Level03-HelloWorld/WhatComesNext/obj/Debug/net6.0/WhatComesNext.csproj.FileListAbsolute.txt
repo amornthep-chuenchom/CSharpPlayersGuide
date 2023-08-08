@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\bin\Debug\net6.0\WhatComesNext.exe
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\bin\Debug\net6.0\WhatComesNext.deps.json
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\bin\Debug\net6.0\WhatComesNext.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\bin\Debug\net6.0\WhatComesNext.dll
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\bin\Debug\net6.0\WhatComesNext.pdb
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\obj\Debug\net6.0\WhatComesNext.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\obj\Debug\net6.0\WhatComesNext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\obj\Debug\net6.0\WhatComesNext.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\obj\Debug\net6.0\WhatComesNext.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\obj\Debug\net6.0\WhatComesNext.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\obj\Debug\net6.0\WhatComesNext.dll
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\obj\Debug\net6.0\refint\WhatComesNext.dll
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\obj\Debug\net6.0\WhatComesNext.pdb
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\obj\Debug\net6.0\WhatComesNext.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\WhatComesNext\obj\Debug\net6.0\ref\WhatComesNext.dll

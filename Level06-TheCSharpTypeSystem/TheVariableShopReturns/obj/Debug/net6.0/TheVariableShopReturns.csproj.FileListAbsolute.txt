@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\bin\Debug\net6.0\TheVariableShopReturns.exe
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\bin\Debug\net6.0\TheVariableShopReturns.deps.json
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\bin\Debug\net6.0\TheVariableShopReturns.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\bin\Debug\net6.0\TheVariableShopReturns.dll
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\bin\Debug\net6.0\TheVariableShopReturns.pdb
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.dll
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\refint\TheVariableShopReturns.dll
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.pdb
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\TheVariableShopReturns.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level06-TheCSharpTypeSystem\TheVariableShopReturns\obj\Debug\net6.0\ref\TheVariableShopReturns.dll

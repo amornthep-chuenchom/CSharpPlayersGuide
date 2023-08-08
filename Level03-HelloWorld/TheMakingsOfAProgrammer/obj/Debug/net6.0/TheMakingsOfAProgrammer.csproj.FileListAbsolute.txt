@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\bin\Debug\net6.0\TheMakingsOfAProgrammer.exe
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\bin\Debug\net6.0\TheMakingsOfAProgrammer.deps.json
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\bin\Debug\net6.0\TheMakingsOfAProgrammer.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\bin\Debug\net6.0\TheMakingsOfAProgrammer.dll
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\bin\Debug\net6.0\TheMakingsOfAProgrammer.pdb
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.dll
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\obj\Debug\net6.0\refint\TheMakingsOfAProgrammer.dll
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.pdb
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level03-HelloWorld\TheMakingsOfAProgrammer\obj\Debug\net6.0\ref\TheMakingsOfAProgrammer.dll

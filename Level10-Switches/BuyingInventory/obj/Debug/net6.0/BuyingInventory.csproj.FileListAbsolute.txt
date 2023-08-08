@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\bin\Debug\net6.0\BuyingInventory.exe
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\bin\Debug\net6.0\BuyingInventory.deps.json
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\bin\Debug\net6.0\BuyingInventory.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\bin\Debug\net6.0\BuyingInventory.dll
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\bin\Debug\net6.0\BuyingInventory.pdb
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\obj\Debug\net6.0\BuyingInventory.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\obj\Debug\net6.0\BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\obj\Debug\net6.0\BuyingInventory.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\obj\Debug\net6.0\BuyingInventory.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\obj\Debug\net6.0\BuyingInventory.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\obj\Debug\net6.0\BuyingInventory.dll
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\obj\Debug\net6.0\refint\BuyingInventory.dll
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\obj\Debug\net6.0\BuyingInventory.pdb
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\obj\Debug\net6.0\BuyingInventory.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level10-Switches\BuyingInventory\obj\Debug\net6.0\ref\BuyingInventory.dll

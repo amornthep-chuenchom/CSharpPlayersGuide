@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.exe
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.deps.json
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.dll
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.pdb
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.dll
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\obj\Debug\net6.0\refint\TheMagicCannon.dll
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.pdb
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level11-Looping\TheMagicCannon\obj\Debug\net6.0\ref\TheMagicCannon.dll

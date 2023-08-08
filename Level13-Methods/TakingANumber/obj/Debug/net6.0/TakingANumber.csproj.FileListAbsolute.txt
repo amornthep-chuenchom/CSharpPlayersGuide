@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\bin\Debug\net6.0\TakingANumber.exe
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\bin\Debug\net6.0\TakingANumber.deps.json
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\bin\Debug\net6.0\TakingANumber.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\bin\Debug\net6.0\TakingANumber.dll
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\bin\Debug\net6.0\TakingANumber.pdb
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\obj\Debug\net6.0\TakingANumber.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\obj\Debug\net6.0\TakingANumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\obj\Debug\net6.0\TakingANumber.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\obj\Debug\net6.0\TakingANumber.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\obj\Debug\net6.0\TakingANumber.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\obj\Debug\net6.0\TakingANumber.dll
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\obj\Debug\net6.0\refint\TakingANumber.dll
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\obj\Debug\net6.0\TakingANumber.pdb
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\obj\Debug\net6.0\TakingANumber.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level13-Methods\TakingANumber\obj\Debug\net6.0\ref\TakingANumber.dll

@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\bin\Debug\net6.0\RepairingTheClocktower.exe
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\bin\Debug\net6.0\RepairingTheClocktower.deps.json
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\bin\Debug\net6.0\RepairingTheClocktower.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\bin\Debug\net6.0\RepairingTheClocktower.dll
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\bin\Debug\net6.0\RepairingTheClocktower.pdb
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.dll
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net6.0\refint\RepairingTheClocktower.dll
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.pdb
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net6.0\ref\RepairingTheClocktower.dll

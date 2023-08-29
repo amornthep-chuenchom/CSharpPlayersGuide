@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\bin\Debug\net6.0\SimulasSoup.exe
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\bin\Debug\net6.0\SimulasSoup.deps.json
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\bin\Debug\net6.0\SimulasSoup.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\bin\Debug\net6.0\SimulasSoup.dll
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\bin\Debug\net6.0\SimulasSoup.pdb
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\obj\Debug\net6.0\SimulasSoup.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\obj\Debug\net6.0\SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\obj\Debug\net6.0\SimulasSoup.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\obj\Debug\net6.0\SimulasSoup.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\obj\Debug\net6.0\SimulasSoup.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\obj\Debug\net6.0\SimulasSoup.dll
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\obj\Debug\net6.0\refint\SimulasSoup.dll
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\obj\Debug\net6.0\SimulasSoup.pdb
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\obj\Debug\net6.0\SimulasSoup.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level17-Tuples\SimulasSoup\obj\Debug\net6.0\ref\SimulasSoup.dll

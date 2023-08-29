@@ -1,0 +1,14 @@
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net6.0\ThePropertiesOfArrows.exe
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net6.0\ThePropertiesOfArrows.deps.json
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net6.0\ThePropertiesOfArrows.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net6.0\ThePropertiesOfArrows.dll
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net6.0\ThePropertiesOfArrows.pdb
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.dll
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\refint\ThePropertiesOfArrows.dll
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.pdb
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level20-Properties\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ref\ThePropertiesOfArrows.dll

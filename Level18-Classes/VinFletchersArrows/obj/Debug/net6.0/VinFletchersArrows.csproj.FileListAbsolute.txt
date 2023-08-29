@@ -1,0 +1,15 @@
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.exe
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.deps.json
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.dll
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.pdb
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.csproj.AssemblyReference.cache
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.dll
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\obj\Debug\net6.0\refint\VinFletchersArrows.dll
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.pdb
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level18-Classes\VinFletchersArrows\obj\Debug\net6.0\ref\VinFletchersArrows.dll

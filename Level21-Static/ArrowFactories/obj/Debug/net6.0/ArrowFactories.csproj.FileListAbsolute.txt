@@ -1,0 +1,14 @@
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\obj\Debug\net6.0\ArrowFactories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\obj\Debug\net6.0\ArrowFactories.AssemblyInfoInputs.cache
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\obj\Debug\net6.0\ArrowFactories.AssemblyInfo.cs
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\obj\Debug\net6.0\ArrowFactories.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\bin\Debug\net6.0\ArrowFactories.exe
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\bin\Debug\net6.0\ArrowFactories.deps.json
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\bin\Debug\net6.0\ArrowFactories.runtimeconfig.json
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\bin\Debug\net6.0\ArrowFactories.dll
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\bin\Debug\net6.0\ArrowFactories.pdb
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\obj\Debug\net6.0\ArrowFactories.dll
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\obj\Debug\net6.0\refint\ArrowFactories.dll
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\obj\Debug\net6.0\ArrowFactories.pdb
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\obj\Debug\net6.0\ArrowFactories.genruntimeconfig.cache
+D:\Project\CSharpPlayersGuide\Level21-Static\ArrowFactories\obj\Debug\net6.0\ref\ArrowFactories.dll
